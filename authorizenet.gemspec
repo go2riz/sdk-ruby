@@ -15,7 +15,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = '>= 1.3.6'
 
   s.add_runtime_dependency 'nokogiri', '~> 1.6', '>= 1.6.4'
-  s.add_runtime_dependency "roxml", "= 3.3.1"
+  s.add_runtime_dependency "roxml", "= 4.0.0"
 
   s.add_development_dependency 'rake', '~> 0.8', '>= 0.8.7'
   s.add_development_dependency 'rspec', '~> 2.1'
